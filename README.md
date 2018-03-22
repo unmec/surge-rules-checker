@@ -9,4 +9,5 @@ put the your rules.conf file that contains only DOMAIN-SUFFIX rules in ./
 duplicate rules will be flagged in console, you can then manually search and delete them.
 
 output example
-![image](https://raw.githubusercontent.com/unmec/surge-rules-checker/master/output.jpg)
+
+![image](https://raw.githubusercontent.com/unmec/surge-rules-checker/master/output.jpg =441x123)
