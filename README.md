@@ -10,4 +10,4 @@ duplicate rules will be flagged in console, you can then manually search and del
 
 output example
 
-![image](https://raw.githubusercontent.com/unmec/surge-rules-checker/master/output.jpg =441x123)
+<img src="https://raw.githubusercontent.com/unmec/surge-rules-checker/master/output.jpg" width = "441" height = "123" alt="output" align=left />
